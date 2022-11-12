@@ -1,0 +1,17 @@
+{
+    "name": "user/pdc10-generating-pdf-files",
+    "autoload": {
+        "psr-4": {
+            "User\\Pdc10GeneratingPdfFiles\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ehtluhg",
+            "email": "dy.gabrielrhobert@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "fpdf/fpdf": "^1.84"
+    }
+}
